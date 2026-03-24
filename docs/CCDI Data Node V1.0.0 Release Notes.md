@@ -8,7 +8,7 @@ Metadata (clinical, phenotypic, and administrative) has been harmonized to Commo
 
 The CCDI Data Node V1.0.0 provides harmonized values aligned with the Federation data model and does not reflect all CCDI-curated data. Future releases will expand support for additional clinical and phenotypic data searches and enable access to unharmonized data at individual endpoints. The following implementation considerations apply to the CCDI Data Node: 
 
-- The CCDI-managed data is currently based on the CCDI Data Model Version 3.1.0, which has been harmonized to the existing CCDI Data Federation Specification (V1.2.0) to ensure consistency across all participating nodes (see Metadata below).
+- The CCDI-managed data is currently based on the CCDI Data Model Version 3.1.0, which has been harmonized to the existing CCDI Data Federation Specification (V1.2.0) to ensure consistency across all participating nodes.
 - The File endpoint currently supports sequencing files.
 - Diagnosis values incorporate terms from [ICD-0 3.2](http://www.iacr.com.fr/index.php?Itemid=577), [WHO Pediatric Tumor](https://publications.iarc.who.int/Book-And-Report-Series/Who-Classification-Of-Tumours/Paediatric-Tumours-2023) and [Cancer Classifications for Kids](https://docs.stjude.cloud/cc4k).
 - The [Uberon](https://www.ebi.ac.uk/ols4/ontologies/uberon) ontology was leveraged for anatomical site representation.
