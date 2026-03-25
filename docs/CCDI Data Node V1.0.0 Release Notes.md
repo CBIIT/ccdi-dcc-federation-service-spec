@@ -17,7 +17,7 @@ The CCDI Data Node V1.0.0 provides harmonized values aligned with the Federation
 
 ### Additional Information
 
-Read more about CCDI Federation API in the  [documentation](https://cbiit.github.io/ccdi-federation-api/blog.html). We look forward to seeing the community continue to leverage this API and contribute to the ongoing enhancement of the CCDI Data Federation Resource. 
+Read more about CCDI Federation API in the  [documentation](https://cbiit.github.io/ccdi-federation-api/). We look forward to seeing the community continue to leverage this API and contribute to the ongoing enhancement of the CCDI Data Federation Resource. 
 
 For questions related to CCDI Data Federation, please email [ncichildhoodcancerdatainitiative@mail.nih.gov](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
 
