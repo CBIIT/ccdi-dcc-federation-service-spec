@@ -1,4 +1,4 @@
-**CCDI Data Node V1.2.0 Release Notes**
+# CCDI Data Node V1.2.0 Release Notes**
 _Jagu, Subhashini (NIH/NCI)_
 
 The Childhood Cancer Data Initiative (CCDI) is announcing the next
@@ -39,13 +39,13 @@ specification.
 - Mapping changes for ID to GUID
 - Mapping changes for file types
 
-**Additional Information**
+## Additional Information**
 
 Read more about CCDI Federation API in
-the [[documentation]{.underline}](https://cbiit.github.io/ccdi-federation-api/).
+the [documentation](https://cbiit.github.io/ccdi-federation-api/).
 We look forward to seeing the community continue to leverage this API
 and contribute to the ongoing enhancement of the CCDI Data Federation
 Resource.
 
 For questions related to CCDI Data Federation, please
-email [[ncichildhoodcancerdatainitiative@mail.nih.gov]{.underline}](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
+email [ncichildhoodcancerdatainitiative@mail.nih.gov](mailto:ncichildhoodcancerdatainitiative@mail.nih.gov).
