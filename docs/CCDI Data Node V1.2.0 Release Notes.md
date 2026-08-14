@@ -1,4 +1,4 @@
-# CCDI Data Node V1.2.0 Release Notes**
+# CCDI Data Node V1.2.0 Release Notes
 _Jagu, Subhashini (NIH/NCI)_
 
 The Childhood Cancer Data Initiative (CCDI) is announcing the next
@@ -18,6 +18,7 @@ specification.
 
 - Aligns syntax for unharmonized values to the API specification
   for unharmonized.associated_diagnosis_categories
+  
 - Mapping changes for sex
 
 - String to list for race, ethnicity, associated  properties in
@@ -25,7 +26,7 @@ specification.
 
 **Sample and Sample Experimental**
 
-- Mapping changes for API tumor classification to DCC Diagnosis Disease Extent Type (tumor_spatial_extent), preservation method, and diagnosis_category
+- Mapping changes for API tumor classification to DCC Diagnosis Disease Extent Type (tumor_spatial_extent), preservation method, and diagnosis category
 
 - Aligns syntax for unharmonized values with the for unharmonized.diagnosis_category
 
@@ -39,7 +40,7 @@ specification.
 - Mapping changes for ID to GUID
 - Mapping changes for file types
 
-## Additional Information**
+## Additional Information
 
 Read more about CCDI Federation API in
 the [documentation](https://cbiit.github.io/ccdi-federation-api/).
