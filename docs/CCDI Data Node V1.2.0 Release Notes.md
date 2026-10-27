@@ -8,7 +8,7 @@ Resource
 
 This change supports the CCDI V1.0 Data model and aligns with the
 existing Data Federation API Specification (V1.3.0). This release
-increases the available data to 45 studies.
+increases the available data to 49 studies and provides updates to existing studies available in the API.
 
 Apart from changes to syntax for unharmonized values, technical changes
 are driven by mapping the new data model to the existing API
